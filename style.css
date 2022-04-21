@@ -307,6 +307,7 @@ body section {
     display: block;
     position: absolute;
     height: 270px;
+    width: 85.18px;
     top: 45vh;
     left: -39px;
   }
@@ -626,7 +627,7 @@ body section {
   .about__photo {
     margin: 0;
     margin-right: 50px;
-    height: 300px;
+    width: 30%;
   }
 }
 .about__img {
@@ -1027,7 +1028,7 @@ body section {
 @media screen and (min-width: 768px) {
   .bg-triangle {
     border-top-width: 10vh;
-    bottom: -10vh;
+    bottom: -9.9vh;
   }
 }
 
